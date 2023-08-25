@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+}
+
+.horizontal-line {
+    width: 50%;
+    margin-left: 25%;
+    height: 2px;
+    background-color: #000000;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    margin-right: 10px;
+}
+
+.img-trs{
+    /* margin-right: auto; */
+    margin-left: 10px;
+}
+
+
+.vertical-line {
+    width: 2px;
+    height: 60px;
+    background-color: #000000;
+    margin: 0 auto;
+}
+.vertical-line-second {
+    width: 2px;
+    height: 60px;
+    background-color: #d51010;
+    margin: 0 auto;
+}
